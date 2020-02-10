@@ -1,0 +1,382 @@
+app_name,device_friendly_name,device_platform,device_os_version,app_version,app_package_id,app_install_status,app_install_status_reason,app_last_seen_utc,device_last_seen_utc,app_is_managed,device_location_group_name,app_type,device_enrollment_status,app_bundle_size_bytes,app_is_installed
+BluetoothUIServer,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,5.0.5,"com.apple.BluetoothUIServer",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,2423124,true
+"Problem Reporter","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,10.12,"com.apple.ProblemReporter",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,998447,true
+quicklookd,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,5.0,"com.apple.QuickLookDaemon",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,1582628,true
+"Activity Monitor","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,10.12,"com.apple.ActivityMonitor",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,10436268,true
+AddressBookUrlForwarder,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,10.0,"com.apple.AddressBook.UrlForwarder",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,288011,true
+Automator,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,2.7,com.apple.Automator,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,9544381,true
+"Calibration Assistant","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,"com.apple.Calibration-Assistant",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,607813,true
+"DVD Player","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,5.8,com.apple.DVDPlayer,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,24478982,true
+EscrowSecurityAlert,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,"com.apple.EscrowSecurityAlert",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,127470,true
+Network,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,"com.apple.finder.Open-Network",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,0,true
+"DiskImages UI Agent","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,444.50.19,"com.apple.frameworks.diskimages.diuiagent",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,558121,true
+HindiIM,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,com.apple.HIM-Container,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,381907,true
+IMTransferAgent,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,10.0,"com.apple.imtransferservices.IMTransferAgent",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,46080,true
+"Installer Progress","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,"com.apple.Installer-Progress",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,252159,true
+"Java Web Start","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,15.0.1,com.apple.JavaWebStart,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,274415,true
+Mail,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,10.3,com.apple.mail,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,38856214,true
+"Network Diagnostics","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.5,"com.apple.NetworkDiagnostics",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,3233516,true
+"QuickTime Player","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,10.4,"com.apple.QuickTimePlayerX",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,16155991,true
+Safari,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,12.1.1,com.apple.Safari,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,26880586,true
+"Cocoa-AppleScript Applet","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,"com.apple.ScriptEditor.id.cocoa-applet-template",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,309632,true
+"Summary Service","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,2.0,com.apple.SummaryService,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,1598160,true
+UnmountAssistantAgent,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,5.0,"com.apple.UnmountAssistantAgent",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,790357,true
+WebKitPluginHost,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,12607,"com.apple.WebKit.PluginHost",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,344617,true
+CiscoWebExUpdate,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,0.2.1,"com.cisco.csg.CiscoWebExUpdate",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,452998,true
+epsonfax,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.71,"com.epson.ijfax.app.epsonfax",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,41837,true
+hpdot4d,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,4.14.3,"com.hp.devicemodel.hpdot4d",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,293797,true
+OneDrive,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,17.3.6798,com.microsoft.OneDrive,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,77110933,true
+SecurID,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,4.1.2,"com.rsa.securid.softwaretoken",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,20199467,true
+"Workspace ONE Intelligent Hub","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,19.08,com.vmware.hub.mac,,,"2019-08-29-12:41:36 UTC","2019-08-29-12:41:40 UTC",false,macOS,Public,Enrolled,65878602,true
+"Google Play Store","Karim Android Android 8.0.0 848B",Android,8.0.0,"15.0.13-all [0] [PR] 249138589",com.android.vending,,,"2019-05-24-06:34:23 UTC","2019-05-24-06:34:26 UTC",false,ANDROID,,Enrolled,19933448,true
+"Mes fichiers","Karim Android Android 8.0.0 848B",Android,8.0.0,5.0.05.511,"com.sec.android.app.myfiles",,,"2019-05-24-06:34:23 UTC","2019-05-24-06:34:26 UTC",false,ANDROID,,Enrolled,8927339,true
+"WSO App Analytics","Karim Android Android 7.0.0 200f",Android,7.0.0,"1.0.13 sdk 5.8.11 beta 10","com.airwlab.wsoappanalytics",,Confirmed,"2019-06-15-10:18:19 UTC","2019-06-18-11:12:30 UTC",true,G-SUITE,Public,Enrolled,1686201,true
+appv1,"Karim iPhone iOS 9.3.1 FML6",Apple,9.3.1,,"com.air-watch.NetworkMess",,,,"2019-05-24-10:15:42 UTC",true,iOS,Internal,Enrolled,,
+"Material Incognito Dark Theme","Karim Google Chrome Book ChromeBook 74.0.3729",ChromeBook,74.0.3729,5.1.0,"ahifcnpnjgbadkjdhagpfjfkmlapfoel",,,"2019-05-22-12:28:56 UTC","2019-05-22-10:29:02 UTC",false,ANDROID,,Enrolled,0,true
+Messages,"Karim Google Chrome Book ChromeBook 74.0.3729",ChromeBook,74.0.3729,2019.2.27.23969,"nngjipgjhfkaeimbhgmodlbhligdflei",,,"2019-05-22-12:28:56 UTC","2019-05-22-10:29:02 UTC",false,ANDROID,,Enrolled,0,true
+"Microsoft Visual C++ 2017 x64 Additional Runtime - 14.12.25810","Karim@vmware.com Desktop Windows Desktop 10.0.17134 5 92",WinRT,10.0.17134,14.12.25810,"{2CD849A7-86A1-34A6-B8F9-D72F5B21A9AE}",,,"2019-06-14-11:42:39 UTC","2019-06-14-15:47:02 UTC",false,"Windows 10",,Enrolled,13062144,true
+"Dwell Control","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,com.apple.DwellControl,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,485528,true
+"Google Docs Offline","Karim Google Chrome Book ChromeBook 74.0.3729",ChromeBook,74.0.3729,1.7,"ghbmnnjooekpmoecnnnilnnbdlolhkhi",,,"2019-05-22-12:28:56 UTC","2019-05-22-10:29:02 UTC",false,ANDROID,,Enrolled,0,true
+FollowUpUI,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,com.apple.FollowUpUI,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,748558,true
+"Photo Library Migration Utility","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,2.0,"com.apple.PhotoLibraryMigrationUtility",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,137110372,true
+"Advanced REST client","Karim Google Chrome Book ChromeBook 74.0.3729",ChromeBook,74.0.3729,10.0.12,"hgmloofddffdnphfgcellkdfbfbjeloo",,,"2019-05-22-12:28:56 UTC","2019-05-22-10:29:02 UTC",false,ANDROID,,Enrolled,0,true
+"Test Nike","Karim Google Chrome Book ChromeBook 74.0.3729",ChromeBook,74.0.3729,2018.12.2.35049,"ldhbponippedogdggpckjeamlonepjpl",,,"2019-05-22-12:28:56 UTC","2019-05-22-10:29:02 UTC",false,ANDROID,,Enrolled,0,true
+"Horizon Client for Chrome OS","Karim Google Chrome Book ChromeBook 74.0.3729",ChromeBook,74.0.3729,1694.36716,"pckbpdplfajmgaipljfamclkinbjdnma",,,"2019-05-22-12:28:56 UTC","2019-05-22-10:29:02 UTC",false,ANDROID,,Enrolled,0,true
+"AirWatchMDM Agent","Karim@vmware.com Desktop Windows Desktop 10.0.17134 5 92",WinRT,10.0.17134,3.8.3,"{0711F8F6-4475-4BFD-95F1-058F2C3C66CA}",,,"2019-07-23-13:44:35 UTC","2019-07-23-13:44:35 UTC",false,"Windows 10",,Enrolled,3399680,true
+50onPaletteServer,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.1.0,com.apple.50onPaletteIM,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,736334,true
+"About This Mac","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,"com.apple.AboutThisMacLauncher",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,744933,true
+"Photos Agent","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,2.0,com.apple.cloudphotosd,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,6303985,true
+ControlStrip,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,com.apple.controlstrip,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,2480628,true
+"Database Events","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0.6,com.apple.databaseevents,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,210264,true
+"Expansion Slot Utility","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.5.1,"com.apple.ExpansionSlotUtility",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,1849694,true
+Family,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,com.apple.Family,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,513031,true
+"Folder Actions Setup","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.2,"com.apple.FolderActionsSetup",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,1748833,true
+JapaneseIM,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,"com.apple.JapaneseIM-Container",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,3083332,true
+"Jar Launcher","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,15.0.1,com.apple.JarLauncher,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,434130,true
+PTPCamera,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,10.1,com.apple.PTPCamera,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,811863,true
+Siri,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,111.3.13,com.apple.Siri,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,2804270,true
+SpeechSynthesisServer,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,6.6.2,"com.apple.speech.synthesis.SpeechSynthesisServer",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,196458,true
+Stickies,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,10.0,com.apple.Stickies,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,7211777,true
+raster2pclm.filter,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.1.1,"com.hp.print.epcldriver.raster2pclm",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,0,true
+"Canon IJScanner4","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,4.0.0,"jp.co.canon.ij.ica.scanner4",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,392882,true
+Firefox,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,53.0.3,org.mozilla.firefox,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,121516889,true
+"LastPass: Free Password Manager","Karim Google Chrome Book ChromeBook 74.0.3729",ChromeBook,74.0.3729,4.28.0.3,"hdokiejnpimakedhajhdlcegeplioahd",,,"2019-05-22-12:28:56 UTC","2019-05-22-10:29:02 UTC",false,ANDROID,,Enrolled,0,true
+"Chromebook Recovery Utility","Karim Google Chrome Book ChromeBook 74.0.3729",ChromeBook,74.0.3729,3.1.7,"jndclpdbaamdhonoechobihbbiimdgai",,,"2019-05-22-12:28:56 UTC","2019-05-22-10:29:02 UTC",false,ANDROID,,Enrolled,0,true
+"Microsoft Visual C++ 2017 x86 Minimum Runtime - 14.12.25810","Karim@vmware.com Desktop Windows Desktop 10.0.17134 5 92",WinRT,10.0.17134,14.12.25810,"{828952EB-5572-3666-8CA9-000B6CE79350}",,,"2019-06-14-11:42:39 UTC","2019-06-14-15:47:02 UTC",false,"Windows 10",,Enrolled,1585152,true
+"AirPort Base Station Agent","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,2.2.1,"com.apple.AirPortBaseStationAgent",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,148391,true
+"AppleScript Utility","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.1.2,"com.apple.AppleScriptUtility",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,1615348,true
+"Audio MIDI Setup","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,3.1,"com.apple.audio.AudioMIDISetup",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,4203533,true
+"AVB Audio Configuration","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,"com.apple.AVB-Audio-Configuration",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,871742,true
+FaceTime,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,3.0,com.apple.FaceTime,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,5511656,true
+FolderActionsDispatcher,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,"com.apple.FolderActionsDispatcher",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,95914,true
+iBooks,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.10,com.apple.iBooksX,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,50213275,true
+identityservicesd,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,10.0,"com.apple.identityservicesd",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,10126325,true
+imavagent,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,10.0,com.apple.imavagent,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,84294,true
+TamilIM,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.6,"com.apple.inputmethod.Tamil",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,78464,true
+Dictation,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,3.5.1,"com.apple.inputmethod.ironwood",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,3412122,true
+"Keychain Circle Notification","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,"com.apple.security.Keychain-Circle-Notification",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,133896,true
+VirtualScanner,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,4.1,com.apple.VirtualScanner,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,283296,true
+rastertoepfax,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.71,"com.epson.ijfax.filter.rastertoepfax",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,296548,true
+"HP LaserJet Professional Utility","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,5.0,"com.hp.HP_LaserJet_Professional_Utility",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,268028,true
+"Canon IJScanner14f","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,4.0.0,"jp.co.canon.ij.ica.scanner14f",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,528688,true
+"Microsoft PowerPoint: Slideshows and Presentations","Karim Android Android 8.0.0 848B",Android,8.0.0,16.0.11629.20124,"com.microsoft.office.powerpoint",,Confirmed,"2019-05-24-06:34:23 UTC","2019-05-24-06:34:26 UTC",true,ANDROID,Public,Enrolled,65709946,true
+"Elevate for Strava","Karim Google Chrome Book ChromeBook 74.0.3729",ChromeBook,74.0.3729,6.11.1,"dhiaggccakkgdfcadnklkbljcgicpckn",,,"2019-05-22-12:28:56 UTC","2019-05-22-10:29:02 UTC",false,ANDROID,,Enrolled,0,true
+"Chrome Canvas","Karim Google Chrome Book ChromeBook 74.0.3729",ChromeBook,74.0.3729,2019.4.7.40195,"ieailfmhaghpphfffooibmlghaeopach",,,"2019-05-22-12:28:56 UTC","2019-05-22-10:29:02 UTC",false,ANDROID,,Enrolled,0,true
+Text,"Karim Google Chrome Book ChromeBook 74.0.3729",ChromeBook,74.0.3729,0.5.161,"mmfbcljfglbokpmkimbfghdkjmjhdgbg",,,"2019-05-22-12:28:56 UTC","2019-05-22-10:29:02 UTC",false,ANDROID,,Enrolled,0,true
+GlobalProtect,"Karim Google Chrome Book ChromeBook 74.0.3729",ChromeBook,74.0.3729,4.1.11.1,"nicidmbokaedpmoegdbcebhnchpegcdc",,,"2019-05-22-12:28:56 UTC","2019-05-22-10:29:02 UTC",false,ANDROID,,Enrolled,0,true
+CMFSyncAgent,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,10.0,com.apple.cmfsyncagent,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,86277,true
+"ColorSync Utility","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,4.12.0,"com.apple.ColorSyncUtility",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,5711459,true
+Dock,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.8,com.apple.dock,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,14630290,true
+Launchpad,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,"com.apple.launchpad.launcher",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,1267501,true
+PressAndHold,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,com.apple.PAH-Container,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,657007,true
+"Photo Booth","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,8.0,com.apple.PhotoBooth,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,6126148,true
+Photos,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,2.0,com.apple.Photos,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,57098524,true
+PubSubAgent,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0.5,com.apple.PubSubAgent,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,434971,true
+"RAID Utility","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,4.0,com.apple.RAIDUtility,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,10368428,true
+screencapturetb,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,"com.apple.screencapturetb",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,547004,true
+soagent,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,7.0,com.apple.soagent,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,35502,true
+TrackpadIM,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,"com.apple.TrackpadIM-Container",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,699664,true
+"VoiceOver Quickstart","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,7.0,"com.apple.VoiceOverQuickstart",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,18971560,true
+"Wireless Diagnostics","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,7.0,"com.apple.wifi.diagnostics",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,3058663,true
+"FAX Utility","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.73,"com.epson.ijfax.utility.FAXUtility",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,539760,true
+autosetup.tool,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.3.2,com.hp.print.autosetup,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,0,true
+"Microsoft Excel","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,15.35,com.microsoft.Excel,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,1538912981,true
+Chrome,"Karim Android Android 8.0.0 848B",Android,8.0.0,74.0.3729.157,com.android.chrome,,,"2019-05-24-06:34:23 UTC","2019-05-24-06:34:26 UTC",false,ANDROID,,Enrolled,125765908,true
+Dropbox,"Karim Android Android 7.0.0 200f",Android,7.0.0,,com.dropbox.android,,,,"2019-06-18-11:12:30 UTC",true,G-SUITE,Public,Enrolled,,
+Calculator,"Karim Google Chrome Book ChromeBook 74.0.3729",ChromeBook,74.0.3729,2.1.11,"joodangkbfjnajiiifokapkpmhfnpleo",,,"2019-05-22-12:28:56 UTC","2019-05-22-10:29:02 UTC",false,ANDROID,,Enrolled,0,true
+"Adobe Acrobat Updater","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,"1 . 0 . 16",com.adobe.ARMDC,,,"2019-08-08-17:33:13 UTC","2019-08-08-17:33:19 UTC",false,macOS,,Enrolled,608098,true
+AddressBookManager,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,10.0,"com.apple.AddressBook.abd",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,34717,true
+AddressBookSync,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,10.0,"com.apple.AddressBook.sync",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,1704473,true
+AOSAlertManager,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.07,"com.apple.AOSAlertManager",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,172708,true
+"Bluetooth File Exchange","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,5.0.5,"com.apple.BluetoothFileExchange",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,1064087,true
+"Display Calibrator","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,4.10.0,"com.apple.ColorSyncCalibrator",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,3535919,true
+Camera,"Karim Android Android 7.0.0 200f",Android,7.0.0,5.30.61.7,com.lge.camera,,,"2019-06-15-10:18:19 UTC","2019-06-18-11:12:30 UTC",false,G-SUITE,,Enrolled,17087368,true
+Sheets,"Karim Google Chrome Book ChromeBook 74.0.3729",ChromeBook,74.0.3729,1.2,"felcaaldnbdncclmgdcncolpebgiejap",,,"2019-05-22-12:28:56 UTC","2019-05-22-10:29:02 UTC",false,ANDROID,,Enrolled,0,true
+Zoom,"Karim Google Chrome Book ChromeBook 74.0.3729",ChromeBook,74.0.3729,3.3.1688.428,"hmbjbjdpkobdjplfobhljndfdfdipjhg",,,"2019-05-22-12:28:56 UTC","2019-05-22-10:29:02 UTC",false,ANDROID,,Enrolled,0,true
+"Microsoft Visual C++ 2017 Redistributable (x64) - 14.12.25810","Karim@vmware.com Desktop Windows Desktop 10.0.17134 5 92",WinRT,10.0.17134,14.12.25810.0,"{e2ee15e2-a480-4bc5-bfb7-e9803d1d9823}",,,"2019-06-14-11:42:39 UTC","2019-06-14-15:47:02 UTC",false,"Windows 10",,Enrolled,24862720,true
+DFRHUD,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,"com.apple.accessibility.DFRHUD",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,147161,true
+"AirPort Utility","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,6.3.7,"com.apple.airport.airportutility",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,50156079,true
+"Archive Utility","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,10.10,com.apple.archiveutility,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,10294411,true
+Chess,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,3.14,com.apple.Chess,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,8694553,true
+"ChineseTextConverterService","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,2.1,"com.apple.ChineseTextConverterService",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,641246,true
+Dictionary,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,2.2.1,com.apple.Dictionary,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,10608874,true
+"iCloud Drive","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,"com.apple.finder.Open-iCloudDrive",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,0,true
+Grab,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.9,com.apple.Grab,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,2192031,true
+LocationMenu,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,com.apple.locationmenu,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,112287,true
+MakePDF,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,10.1,com.apple.MakePDF,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,635570,true
+"Droplet with Settable Properties","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,"com.apple.ScriptEditor.id.droplet-with-settable-properties-template",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,61257,true
+Weather,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,com.apple.weather,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,702330,true
+"HP Device Monitor Manager","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,5.29.3,"com.hp.devicemonitor.manager",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,874634,true
+pdftopdf.filter,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,2.6.1,"com.hp.print.cups.filter.pdftopdf",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,0,true
+asannotation2,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6," ",com.webex.asannotation,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,178388,true
+Caméra,"Karim Android Android 8.0.0 848B",Android,8.0.0,7.6.61,"com.sec.android.app.camera",,,"2019-05-24-06:34:23 UTC","2019-05-24-06:34:26 UTC",false,ANDROID,,Enrolled,10076829,true
+"Microsoft Visual C++ 2017 x64 Minimum Runtime - 14.12.25810","Karim@vmware.com Desktop Windows Desktop 10.0.17134 5 92",WinRT,10.0.17134,14.12.25810,"{C99E2ADC-0347-336E-A603-F1992B09D582}",,,"2019-06-14-11:42:39 UTC","2019-06-14-15:47:02 UTC",false,"Windows 10",,Enrolled,2191360,true
+"Automator Runner","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,2.7,"com.apple.AutomatorRunner",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,337017,true
+"iCloud Drive","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,com.apple.bird,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,529200,true
+"Certificate Assistant","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,5.0,"com.apple.CertificateAssistant",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,14225443,true
+CoreServicesUIAgent,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,168.3,"com.apple.coreservices.uiagent",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,5190039,true
+"Disk Utility","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,16.3,com.apple.DiskUtility,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,6217609,true
+"All My Files","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,"com.apple.finder.Open-AllMyFiles",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,0,true
+HelpViewer,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,5.3.5,com.apple.helpviewer,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,3047647,true
+"IMAutomaticHistoryDeletionAgent","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,10.0,"com.apple.imautomatichistorydeletionagent",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,117313,true
+"Switch Control","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,2.0,"com.apple.inputmethod.AssistiveControl",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,9397700,true
+"Install macOS High Sierra","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,13.5.04,"com.apple.InstallAssistant.HighSierra",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,5226660692,true
+KeyboardViewer,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,3.2,com.apple.KeyboardViewer,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,1941839,true
+"Language Chooser","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,"com.apple.Language-Chooser",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,1877097,true
+"Network Setup Assistant","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,10.8.0,"com.apple.NetworkSetupAssistant",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,4559510,true
+MiniTerm,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.9,com.apple.pppminiterm,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,79958,true
+SecurityFixer,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,10.8,com.apple.SecurityFixer,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,593259,true
+AppleMobileSync,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,5.0,"com.apple.SyncServices.AppleMobileSync",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,423162,true
+MobileDeviceUpdater,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,"com.apple.MobileDeviceUpdater",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,1254668,true
+PrinterProxy,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,12.4,"com.apple.print.PrinterProxy",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,142963,true
+STMUIHelper,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,"com.apple.STMFramework.UIHelper",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,51160,true
+Type4Camera,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,10.1,com.apple.Type4Camera,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,246492,true
+"VoiceOver Utility","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,7.0,"com.apple.VoiceOverUtility",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,9682255,true
+"Fax Receive Monitor","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.71,"com.epson.ijfax.app.FaxReceiveMonitor",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,1082173,true
+"HP M1130_M1210 Scanner","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,com.hp.HP-Scanner,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,320018,true
+rastertofax.filter,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,5.17.1,com.hp.rastertofax,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,0,true
+"YSoft SafeQ Client","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,4.12.0,"com.ysoft.YSoft-SafeQ-Client",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,1644005,true
+"Canon IJScanner15f","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,4.1.0,"jp.co.canon.ij.ica.scanner15f",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,481533,true
+Hub,"Karim iPhone iOS 9.3.1 FML6",Apple,9.3.1,19.04.0,com.air-watch.agent,,,"2019-05-25-09:22:41 UTC","2019-06-04-19:36:34 UTC",false,iOS,,Enrolled,38035456,true
+"Slack for EMM","Karim iPhone iOS 9.3.1 FML6",Apple,9.3.1,,com.slack.slackmdm,,,,"2019-05-25-08:37:29 UTC",true,iOS,Public,Enrolled,,
+"Google Drive","Karim Google Chrome Book ChromeBook 74.0.3729",ChromeBook,74.0.3729,14.2,"apdfllckaahabafndbhieahigkjlhalf",,,"2019-05-22-12:28:56 UTC","2019-05-22-10:29:02 UTC",false,ANDROID,,Enrolled,0,true
+"Zoom Scheduler","Karim Google Chrome Book ChromeBook 74.0.3729",ChromeBook,74.0.3729,1.4.36,"kgjfgplpablkjnlkjmjdecgdpfankdle",,,"2019-05-22-12:28:56 UTC","2019-05-22-10:29:02 UTC",false,ANDROID,,Enrolled,0,true
+"Google Maps","Karim Google Chrome Book ChromeBook 74.0.3729",ChromeBook,74.0.3729,5.4.1,"lneaknkopdijkpnocmklfnjbeapigfbh",,,"2019-05-22-12:28:56 UTC","2019-05-22-10:29:02 UTC",false,ANDROID,,Enrolled,0,true
+UniversalAccessHUD,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,"com.apple.accessibility.universalAccessHUD",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,388044,true
+Contacts,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,10.0,com.apple.AddressBook,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,19940814,true
+"Boot Camp Assistant","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,6.1.0,"com.apple.bootcampassistant",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,3695910,true
+"Captive Network Assistant","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,4.0,"com.apple.CaptiveNetworkAssistant",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,294293,true
+check_afp,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,4.0,com.apple.check_afp,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,140761,true
+PluginIM,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,18,"com.apple.inputmethod.PluginIM",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,209160,true
+Installer,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,6.2.0,com.apple.installer,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,9819289,true
+LaterAgent,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,com.apple.lateragent,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,363704,true
+PIPAgent,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,com.apple.PIPAgent,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,694288,true
+AddPrinter,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,12.4,com.apple.print.add,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,2147842,true
+RapportUIAgent,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,com.apple.RapportUIAgent,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,73403,true
+ReportPanic,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,10.12,com.apple.ReportPanic,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,833292,true
+ScreenSaverEngine,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,5.0,"com.apple.ScreenSaver.Engine",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,1001809,true
+"Recursive Image File Processing Droplet","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,"com.apple.ScriptEditor.id.image-file-processing-droplet-template",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,65343,true
+"Script Editor","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,2.9,com.apple.ScriptEditor2,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,7057170,true
+"Setup Assistant","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,10.10,com.apple.SetupAssistant,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,29503327,true
+Siri,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,com.apple.siri.launcher,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,1869229,true
+SpeechRecognitionServer,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,6.6.1,"com.apple.speech.SpeechRecognitionServer",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,43566,true
+Stocks,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,com.apple.stocks,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,642615,true
+storeuid,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,com.apple.storeuid,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,290596,true
+SystemUIServer,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.7,com.apple.systemuiserver,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,962130,true
+VietnameseIM,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,com.apple.VIM-Container,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,1293437,true
+"VMware Fusion","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,8.5.7,com.vmware.fusion,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,739494011,true
+eaptlstrust,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,13.0,"com.apple.eap8021x.eaptlstrust",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,86451,true
+"Mission Control","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.2,com.apple.exposelauncher,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,866486,true
+Finder,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,10.12.6,com.apple.finder,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,29027994,true
+Messages,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,10.0,com.apple.iChat,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,18376957,true
+AinuIM,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,"com.apple.inputmethod.Ainu",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,303240,true
+KeyboardSetupAssistant,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,10.7,"com.apple.KeyboardSetupAssistant",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,1429292,true
+"Keychain Access","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,9.0,com.apple.keychainaccess,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,5556306,true
+"Install in Progress","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,3.0,"com.apple.PackageKit.Install-in-Progress",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,282226,true
+"Canon IJ Printer Utility","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,16.10.0,"jp.co.canon.bj.print.app.canonijprinterutility",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,13245785,true
+Python,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,2.7.10,org.python.python,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,163036,true
+Contacts,"Karim Android Android 7.0.0 200f",Android,7.0.0,5.30.46,com.android.contacts,,,"2019-06-15-10:18:19 UTC","2019-06-18-11:12:30 UTC",false,G-SUITE,,Enrolled,11943606,true
+Documents,"Karim Android Android 7.0.0 200f",Android,7.0.0,7.0,com.android.documentsui,,,"2019-06-15-10:18:19 UTC","2019-06-18-11:12:30 UTC",false,G-SUITE,,Enrolled,887397,true
+"Microsoft PowerPoint: Slideshows and Presentations","Karim Android Android 7.0.0 200f",Android,7.0.0,16.0.11629.20124,"com.microsoft.office.powerpoint",,Confirmed,"2019-05-24-10:10:28 UTC","2019-05-25-08:09:46 UTC",true,G-SUITE,Public,Enrolled,65725649,true
+"Lookout for Work","Karim iPhone iOS 9.3.1 FML6",Apple,9.3.1,4.13.0,com.lookout.work,,Confirmed,"2019-05-25-09:22:41 UTC","2019-06-04-19:36:34 UTC",true,iOS,Public,Enrolled,18305024,true
+"Google Keep - notes and lists","Karim Google Chrome Book ChromeBook 74.0.3729",ChromeBook,74.0.3729,3.1.19204.1272,"hmjkmjkepdijhoojdojkdfohbdgmmhki",,,"2019-05-22-12:28:56 UTC","2019-05-22-10:29:02 UTC",false,ANDROID,,Enrolled,0,true
+"App Runtime for Chrome (Beta)","Karim Google Chrome Book ChromeBook 74.0.3729",ChromeBook,74.0.3729,54.5021.660.0,"mfaihdlpglflfgpfjcifdjdjcckigekc",,,"2019-05-22-12:28:56 UTC","2019-05-22-10:29:02 UTC",false,ANDROID,,Enrolled,0,true
+SAML-tracer,"Karim Google Chrome Book ChromeBook 74.0.3729",ChromeBook,74.0.3729,1.5.1,"mpdajninpobndbfcldcmbpnnbhibjmch",,,"2019-05-22-12:28:56 UTC","2019-05-22-10:29:02 UTC",false,ANDROID,,Enrolled,0,true
+ABAssistantService,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,10.0,"com.apple.ABAssistantService",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,67976,true
+"Feedback Assistant","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,4.5,"com.apple.appleseed.FeedbackAssistant",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,8261214,true
+DiskImageMounter,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,444.50.19,"com.apple.DiskImageMounter",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,2096033,true
+AirDrop,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,"com.apple.finder.Open-AirDrop",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,0,true
+KoreanIM,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,com.apple.KIM-Container,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,3731285,true
+nbagent,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,com.apple.nbagent,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,292531,true
+"Notification Center","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,"com.apple.notificationcenterui",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,2714762,true
+PowerChime,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,com.apple.PowerChime,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,409287,true
+"Screen Sharing","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.7.1,com.apple.ScreenSharing,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,4181269,true
+Spotlight,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,com.apple.Spotlight,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,1615285,true
+Type8Camera,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,10.1,com.apple.Type8Camera,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,217644,true
+UniversalAccessControl,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,7.0,"com.apple.UniversalAccessControl",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,540257,true
+"Skype for Business","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,16.6.333,"com.microsoft.SkypeForBusiness",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,85465328,true
+Socialcast,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.1.1,com.socialcast.desktop,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,117686478,true
+SafeQWebAppBrowser,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,4.0,"com.ysoft.SafeQWebAppBrowser",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,578933,true
+"Canon IJScanner6","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,4.0.0,"jp.co.canon.ij.ica.scanner6",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,401098,true
+CIJAutoSetupTool,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,16.0.5,"jp.co.canon.ij.print.cijautosetuptool",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,296008,true
+Autoupdate,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.13.1,"org.sparkle-project.Sparkle.Autoupdate",,,"2019-08-08-17:33:13 UTC","2019-08-08-17:33:19 UTC",false,macOS,,Enrolled,753089,true
+Hub,"Karim Android Android 7.0.0 200f",Android,7.0.0,19.05.0.22,"com.airwatch.androidagent",,,"2019-06-15-10:18:19 UTC","2019-06-18-11:12:30 UTC",false,G-SUITE,,Enrolled,44986520,true
+"Web - Workspace ONE","Karim iPhone iOS 9.3.1 FML6",Apple,9.3.1,6.12,"com.air-watch.secure.browser",,Confirmed,"2019-05-24-17:15:03 UTC","2019-05-25-08:37:29 UTC",true,iOS,Public,Enrolled,35033088,true
+Games,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,com.apple.gamecenter,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,2581429,true
+iCloudUserNotificationsd,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,"com.apple.iCloudUserNotificationsd",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,691132,true
+loginwindow,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,9.0,com.apple.loginwindow,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,3864934,true
+"Migration Assistant","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,10.12,"com.apple.MigrateAssistant",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,2343322,true
+NetAuthAgent,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,6.2,com.apple.NetAuthAgent,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,993740,true
+quicklookd32,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,5.0,"com.apple.QuickLookDaemon32",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,120547,true
+"System Image Utility","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,10.12,"com.apple.SystemImageUtility",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,4496090,true
+TextWrangler,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,5.5.2,"com.barebones.textwrangler",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,19682189,true
+"Cisco WebEx Start","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,0.5.4,"com.cisco.webex.Cisco-WebEx-Start",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,1610736,true
+commandFilter,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.71,"com.epson.ijfax.filter.commandFilter",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,86447,true
+epcl2ppd.tool,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.1.1,"com.hp.print.epcldriver.epcl2ppd",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,0,true
+Dropbox,"Karim Android Android 8.0.0 848B",Android,8.0.0,,com.dropbox.android,,,,"2019-05-24-06:34:26 UTC",true,ANDROID,Public,Enrolled,,
+Slides,"Karim Google Chrome Book ChromeBook 74.0.3729",ChromeBook,74.0.3729,0.10,"aapocclcgogkmnckokdopfmhonfmgoek",,,"2019-05-22-12:28:56 UTC","2019-05-22-10:29:02 UTC",false,ANDROID,,Enrolled,0,true
+Gmail,"Karim Google Chrome Book ChromeBook 74.0.3729",ChromeBook,74.0.3729,8.2,"pjkljhegncpnkpknbcohdijeoejaedia",,,"2019-05-22-12:28:56 UTC","2019-05-22-10:29:02 UTC",false,ANDROID,,Enrolled,0,true
+AppDownloadLauncher,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,"com.apple.appstore.AppDownloadLauncher",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,1155442,true
+"Time Machine","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.3,"com.apple.backup.launcher",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,1303161,true
+Calculator,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,10.8,com.apple.calculator,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,6846580,true
+CalendarFileHandler,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,8.0,"com.apple.CalendarFileHandler",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,2339470,true
+Console,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,com.apple.Console,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,3096281,true
+Calendar,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,9.0,com.apple.iCal,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,21540535,true
+"Image Capture","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,6.8,com.apple.Image_Capture,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,3084880,true
+ImageCaptureService,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,6.7,"com.apple.ImageCaptureService",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,2095191,true
+IMServicePlugInAgent,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,10.0,"com.apple.IMServicePlugInAgent",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,52350,true
+InkServer,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,10.9,com.apple.ink.inkserver,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,792049,true
+Maps,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,2.0,com.apple.Maps,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,16110694,true
+"Pass Viewer","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,com.apple.Pass-Viewer,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,641899,true
+"Recursive File Processing Droplet","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,"com.apple.ScriptEditor.id.file-processing-droplet-template",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,65493,true
+TextEdit,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.12,com.apple.TextEdit,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,6222681,true
+EPFaxAutoSetupTool,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.71,"com.epson.ijfax.app.EPFaxAutoSetupTool",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,46355,true
+"EPSON Scanner","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,5.7.24,com.epson.scanner.ica,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,24266633,true
+"HP Utility","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,5.29.3,com.hp.printerutility,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,42270766,true
+"Microsoft Outlook","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,15.35,com.microsoft.Outlook,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,1658427826,true
+convertpdf,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.2,com.webex.convertpdf,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,471726,true
+commandtoxbds,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,3.81.1,com.xerox.commandtoxbds,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,4314257,true
+Dropbox,"Karim iPhone iOS 9.3.1 FML6",Apple,9.3.1,,com.getdropbox.Dropbox,,,,"2019-06-04-19:36:34 UTC",true,iOS,Public,Enrolled,,
+Docs,"Karim Google Chrome Book ChromeBook 74.0.3729",ChromeBook,74.0.3729,0.10,"aohghmighlieiainnegkcijnfilokake",,,"2019-05-22-12:28:56 UTC","2019-05-22-10:29:02 UTC",false,ANDROID,,Enrolled,0,true
+Salesforce,"Karim Google Chrome Book ChromeBook 74.0.3729",ChromeBook,74.0.3729,2.220.1,"jjghhkepijgakdammjldcbnjehfkfmha",,,"2019-05-22-12:28:56 UTC","2019-05-22-10:29:02 UTC",false,ANDROID,,Enrolled,0,true
+universalAccessAuthWarn,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,"com.apple.accessibility.universalAccessAuthWarn",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,1559524,true
+YouTube,"Karim Google Chrome Book ChromeBook 74.0.3729",ChromeBook,74.0.3729,4.2.8,"blpcfgokakmgnkcojhhkbfbldkacnbeo",,,"2019-05-22-12:28:56 UTC","2019-05-22-10:29:02 UTC",false,ANDROID,,Enrolled,0,true
+"Google Photos","Karim Google Chrome Book ChromeBook 74.0.3729",ChromeBook,74.0.3729,1.0,"hcglmfcclpfgljeaiahehebeoaiicbko",,,"2019-05-22-12:28:56 UTC","2019-05-22-10:29:02 UTC",false,ANDROID,,Enrolled,0,true
+"eBay for Chrome","Karim Google Chrome Book ChromeBook 74.0.3729",ChromeBook,74.0.3729,5.3.2,"khhckppjhonfmcpegdjdibmngahahhck",,,"2019-05-22-12:28:56 UTC","2019-05-22-10:29:02 UTC",false,ANDROID,,Enrolled,0,true
+"VMware AirWatch Agent","Karim Google Chrome Book ChromeBook 74.0.3729",ChromeBook,74.0.3729,1.2.0.0,"nbdpkhjakllmhcdjjlfldeohablclcbo",,,"2019-05-22-12:28:56 UTC","2019-05-22-10:29:02 UTC",false,ANDROID,,Enrolled,0,true
+"Workspace ONE Intelligent Hub","Karim@vmware.com Desktop Windows Desktop 10.0.17134 5 92",WinRT,10.0.17134,19.7.1.0,"{40932476-81DA-5F83-7C3E-2E92955263DF}",,,"2019-07-23-13:44:35 UTC","2019-07-23-13:44:35 UTC",false,"Windows 10",,Enrolled,45052928,true
+"Microsoft Visual C++ 2017 Redistributable (x86) - 14.12.25810","Karim@vmware.com Desktop Windows Desktop 10.0.17134 5 92",WinRT,10.0.17134,14.12.25810.0,"{56e11d69-7cc9-40a5-a4f9-8f6190c4d84d}",,,"2019-06-14-11:42:39 UTC","2019-06-14-15:47:02 UTC",false,"Windows 10",,Enrolled,21136384,true
+"Directory Utility","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,5.0,"com.apple.DirectoryUtility",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,5303872,true
+FontRegistryUIAgent,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,81.0,"com.apple.FontRegistryUIAgent",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,605575,true
+"Image Events","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.1.6,com.apple.imageevents,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,366648,true
+EmojiFunctionRowIM,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,"com.apple.inputmethod.EmojiFunctionRowItem-Container",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,117941,true
+"Network Utility","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.9.1,com.apple.NetworkUtility,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,1768207,true
+rcd,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,341.2,com.apple.rcd,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,97738,true
+Reminders,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,4.0,com.apple.reminders,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,6566395,true
+"Ergonomic Reminders Installer","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6," ","com.apple.ScriptEditor.id.Install-RSIGuard",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,275612,true
+"Software Update","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,6,com.apple.SoftwareUpdate,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,2095240,true
+"Storage Management","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,"com.apple.StorageManagementLauncher",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,750660,true
+TCIM,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,com.apple.TCIM-Container,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,1018275,true
+"Ticket Viewer","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,4.0,com.apple.Ticket-Viewer,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,3437351,true
+VoiceOver,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,7.0,com.apple.VoiceOver,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,1516969,true
+"Microsoft AutoUpdate","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,3.9.1,"com.microsoft.autoupdate2",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,5658500,true
+HubAutoUpdater,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,19.08,"com.vmware.uem.HubAutoUpdater",,,"2019-08-29-12:41:36 UTC","2019-08-29-12:41:40 UTC",false,macOS,Public,Enrolled,19966621,true
+ScanEventHandler,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.3.1,"com.hp.scan.button.handler.generic",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,344208,true
+HPScanner,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.10.2,com.hp.scanModule,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,10416388,true
+Wish,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,8.5.9,com.tcltk.wish,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,224849,true
+atmsupload,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6," ",com.webex.atmsupload,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,1249136,true
+"ServiceNow® Agent","Karim iPhone iOS 9.3.1 FML6",Apple,9.3.1,,com.servicenow.fulfiller,,,,"2019-05-25-08:37:29 UTC",true,iOS,Public,Enrolled,,
+"Postman Interceptor","Karim Google Chrome Book ChromeBook 74.0.3729",ChromeBook,74.0.3729,0.2.26,"aicmkgpgakddgnaphhhpliifpcfhicfo",,,"2019-05-22-12:28:56 UTC","2019-05-22-10:29:02 UTC",false,ANDROID,,Enrolled,0,true
+"Okta Browser Plugin","Karim Google Chrome Book ChromeBook 74.0.3729",ChromeBook,74.0.3729,5.28.0,"glnpjglilkicbckjpbgcfkogebgllemb",,,"2019-05-22-12:28:56 UTC","2019-05-22-10:29:02 UTC",false,ANDROID,,Enrolled,0,true
+"VMware Tools","Karim@vmware.com Desktop Windows Desktop 10.0.17134 5 92",WinRT,10.0.17134,10.3.10.12406962,"{01767101-A688-4A95-9C83-6DED9EB6735D}",,,"2019-06-14-11:42:39 UTC","2019-06-14-15:47:02 UTC",false,"Windows 10",,Enrolled,83472384,true
+"Cb Defense Sensor 64-bit","Karim@vmware.com Desktop Windows Desktop 10.0.17134 5 92",WinRT,10.0.17134,3.4.0.887,"{17431189-140A-4774-B065-C55EB272F8E1}",,Confirmed,"2019-06-14-11:42:39 UTC","2019-06-14-15:47:02 UTC",true,"Windows 10",Internal,Enrolled,0,true
+"Microsoft Visual C++ 2017 x86 Additional Runtime - 14.12.25810","Karim@vmware.com Desktop Windows Desktop 10.0.17134 5 92",WinRT,10.0.17134,14.12.25810,"{7FED75A1-600C-394B-8376-712E2A8861F2}",,,"2019-06-14-11:42:39 UTC","2019-06-14-15:47:02 UTC",false,"Windows 10",,Enrolled,10776576,true
+AirPlayUIAgent,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,2.0,com.apple.AirPlayUIAgent,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,189364,true
+AOSPushRelay,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.07,com.apple.AOSPushRelay,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,257865,true
+AppleFileServer,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,2.0,"com.apple.AppleFileServer",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,1175923,true
+AppleGraphicsWarning,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,2.3.0,"com.apple.AppleGraphicsWarning",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,65773,true
+AskPermissionUI,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,"com.apple.AskPermissionUI",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,592942,true
+"Bluetooth Setup Assistant","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,5.0.5,"com.apple.BluetoothSetupAssistant",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,1868792,true
+"Build Web Page","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,10.1,com.apple.BuildWebPage,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,249555,true
+CIMFindInputCodeTool,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,102,"com.apple.CCE.CIMFindInputCode",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,380449,true
+iCloud,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,"com.apple.CloudKit.ShareBear",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,1074477,true
+DiscHelper,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,com.apple.DiscHelper,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,434410,true
+Notes,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,4.4,com.apple.Notes,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,10864922,true
+AirScanLegacyDiscovery,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,12.4,"com.apple.print.AirScanLegacyDiscovery",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,21946,true
+QuickLookUIHelper,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,5.0,"com.apple.quicklook.ui.helper",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,279588,true
+SocialPushAgent,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,58,"com.apple.SocialPushAgent",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,145121,true
+AppleMobileDeviceHelper,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,5.0,"com.apple.SyncServices.AppleMobileDeviceHelper",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,787878,true
+fax.backend,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,5.17.1,com.hp.fax,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,0,true
+hpPreProcessing.filter,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.6.3,"com.hp.print.cups.filter.hpPreProcessing",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,0,true
+"Microsoft OneNote","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,15.35.1,"com.microsoft.onenote.mac",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,883767082,true
+GlobalProtect,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,3.1.3-21,"com.paloaltonetworks.GlobalProtect",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,16638192,true
+"Java 8 Update 161","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,"Java 8 Update 161 build 12",Oracle.MacJREInstaller,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,78473915,true
+zoom.us,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,4.4.53582.0519,us.zoom.xos,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,39755948,true
+Hub,"Karim Android Android 8.0.0 848B",Android,8.0.0,19.04.0.29,"com.airwatch.androidagent",,,"2019-05-24-06:34:23 UTC","2019-05-24-06:34:26 UTC",false,ANDROID,,Enrolled,44956110,true
+"Evernote Web","Karim Google Chrome Book ChromeBook 74.0.3729",ChromeBook,74.0.3729,1.0.8,"lbfehkoinhhcknnbdgnnmjhiladcgbol",,,"2019-05-22-12:28:56 UTC","2019-05-22-10:29:02 UTC",false,ANDROID,,Enrolled,0,true
+"Google Update Helper","Karim@vmware.com Desktop Windows Desktop 10.0.17134 5 92",WinRT,10.0.17134,1.3.34.11,"{60EC980A-BDA2-4CB6-A427-B07A5498B4CA}",,,"2019-06-14-11:42:39 UTC","2019-06-14-15:47:02 UTC",false,"Windows 10",,Enrolled,41984,true
+"Adobe Acrobat Reader DC","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,17.012.20098,com.adobe.Reader,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,500157757,true
+AirScanScanner,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,12,com.apple.AirScanScanner,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,1625080,true
+AOSHeartbeat,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.07,com.apple.AOSHeartbeat,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,303914,true
+"Cisco WebEx Meeting Center","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6," ",com.webex.meetingmanager,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,21186674,true
+"WSO App Analytics","Karim Android Android 8.0.0 848B",Android,8.0.0,,"com.airwlab.wsoappanalytics",,"InstallCommandReadyForDevice",,"2019-05-24-06:34:26 UTC",true,ANDROID,Public,Enrolled,,
+"Amazon Assistant for Chrome","Karim Google Chrome Book ChromeBook 74.0.3729",ChromeBook,74.0.3729,10.1905.10.12044,"pbjikboenpfhbbejgkoklgkhjpfogcam",,,"2019-05-22-12:28:56 UTC","2019-05-22-10:29:02 UTC",false,ANDROID,,Enrolled,0,true
+"KnowBe4 Ransomware Simulator","Karim@vmware.com Desktop Windows Desktop 10.0.17134 5 92",WinRT,10.0.17134,2.0.0.54,"{0A1BA62F-CE14-4FB3-9D98-0B43FFEA6DF3}",,,"2019-06-14-11:42:39 UTC","2019-06-14-15:47:02 UTC",false,"Windows 10",,Enrolled,22556672,true
+AddressBookSourceSync,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,10.0,"com.apple.AddressBookSourceSync",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,55014,true
+"App Store","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,2.2.1,com.apple.appstore,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,2286007,true
+"Digital Color Meter","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,5.11,"com.apple.DigitalColorMeter",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,3009824,true
+ParentalControls,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,4.1,"com.apple.familycontrols.useragent",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,1539416,true
+FindMyMacMessenger,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,4.1,"com.apple.FindMyMacMessenger",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,338498,true
+FirmwareUpdateHelper,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,6,"com.apple.FirmwareUpdateHelper",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,63468,true
+"IDSRemoteURLConnectionAgent","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,10.0,"com.apple.idsfoundation.IDSRemoteURLConnectionAgent",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,67710,true
+MassStorageCamera,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,10.1,"com.apple.MassStorageCamera",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,248017,true
+"Widget Simulator","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,"com.apple.notificationcenter.widgetsimulator",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,2025955,true
+NowPlayingTouchUI,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,"com.apple.NowPlayingTouchUI",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,541633,true
+ODSAgent,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.8,com.apple.ODSAgent,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,1762190,true
+RegisterPluginIMApp,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,18,"com.apple.pluginIM.pluginIMRegistrator",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,260711,true
+SCIM,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,com.apple.SCIM-Container,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,1040264,true
+ScreenReaderUIServer,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,7.0,"com.apple.ScreenReaderUIServer",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,1739833,true
+SyncServer,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,8.1,com.apple.syncserver,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,418662,true
+"System Events","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.3.6,com.apple.systemevents,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,676654,true
+"System Preferences","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,14.0,"com.apple.systempreferences",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,5994980,true
+Terminal,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,2.7.5,com.apple.Terminal,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,10430673,true
+WiFiAgent,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,12.0,com.apple.wifi.WiFiAgent,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,1075955,true
+ZoomWindow,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,2.0,com.apple.ZoomWindow.app,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,430155,true
+"HP Scanner 3","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,4.9.2,com.hp.scanModule3,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,5380100,true
+"Microsoft PowerPoint","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,15.35,com.microsoft.Powerpoint,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,1411848297,true
+"VMware Horizon Client","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,4.5.0,com.vmware.horizon,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,94369241,true
+"UASharedPasteboardProgressUI","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,54.1,"com.apple.coreservices.UASharedPasteboardProgressUI",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,61638,true
+Dashboard,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.8,"com.apple.dashboardlauncher",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,552256,true
+"Font Book","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,7.0,com.apple.FontBook,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,14594699,true
+Grapher,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,2.5,com.apple.grapher,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,35231799,true
+imagent,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,10.0,com.apple.imagent,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,422517,true
+ManagedClient,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,9.0,com.apple.ManagedClient,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,10535439,true
+OBEXAgent,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,5.0.5,com.apple.OBEXAgent,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,1287293,true
+Preview,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,9.0,com.apple.Preview,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,35584903,true
+"Run QAS Setup","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6," ","com.apple.ScriptEditor.id.Run-QAS-Setup",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,368699,true
+ScriptMonitor,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0.1,com.apple.ScriptMonitor,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,172148,true
+"Speech Downloader","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,6.6.1,"com.apple.speech.SpeechDataInstallerd",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,2006228,true
+"Conflict Resolver","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,8.1,"com.apple.syncservices.ConflictResolver",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,1315222,true
+syncuid,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,8.1,"com.apple.syncservices.syncuid",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,5016669,true
+"System Information","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,10.12,com.apple.SystemProfiler,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,99214385,true
+ThermalTrap,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,com.apple.ThermalTrap,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,185503,true
+commandtohp.filter,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,2.4.0,"com.hp.print.cups.filter.commandtohp",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,0,true
+"Microsoft Word","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,15.35,com.microsoft.Word,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,1983871913,true
+Contacts,"Karim Android Android 8.0.0 848B",Android,8.0.0,3.8.25.5,"com.samsung.android.contacts",,,"2019-05-24-06:34:23 UTC","2019-05-24-06:34:26 UTC",false,ANDROID,,Enrolled,40299092,true
+"Google Chrome","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,78.0.3904.70,com.google.Chrome,,,,"2019-10-30-16:57:22 UTC",false,macOS,Public,Enrolled,0,true
+"McAfee Endpoint Security for Mac","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,10.6.5,com.mcafee.console,,,,"2019-10-30-16:57:22 UTC",false,macOS,Public,Enrolled,2654188,true
+AutoImporter,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,6.7,com.apple.AutoImporter,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,384130,true
+CharacterPalette,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,2.0.1,"com.apple.CharacterPaletteIM",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,11525213,true
+CoreLocationAgent,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1486.12,"com.apple.CoreLocationAgent",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,317816,true
+"Install Command Line Developer Tools","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,"com.apple.dt.CommandLineTools.installondemand",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,3622629,true
+Computer,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,"com.apple.finder.Open-Computer",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,0,true
+iTunes,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,12.8.2,com.apple.iTunes,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,255377897,true
+"Memory Slot Utility","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.5.1,"com.apple.MemorySlotUtility",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,706483,true
+OSDUIHelper,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,com.apple.OSDUIHelper,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,571191,true
+ARDAgent,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,3.9.4,"com.apple.RemoteDesktopAgent",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,7001576,true
+Type5Camera,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,10.1,com.apple.Type5Camera,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,192076,true
+UserNotificationCenter,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,3.3.0,"com.apple.UserNotificationCenter",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,168293,true
+inSync,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,5.9.5,com.druva.inSync,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,150148604,true
+"Microsoft Teams","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.00.014454,com.microsoft.teams,,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,203585559,true
+"Canon IJScanner2","mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,4.0.0,"jp.co.canon.ijscanner2.scanner.ica",,,"2019-06-18-12:52:36 UTC","2019-06-18-13:14:59 UTC",false,macOS,,Enrolled,423023,true
+DataLossPrevention,"mac MacBook Pro macOS 10.12.6 G3QK",AppleOsX,10.12.6,1.0,com.McAfee.DLP,,,,"2019-10-30-16:57:22 UTC",false,macOS,Public,Enrolled,10905037,true
