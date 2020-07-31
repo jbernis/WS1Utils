@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2c7e67e8.chunk.css",
+    "main.js": "/static/js/main.e008af89.chunk.js",
+    "main.js.map": "/static/js/main.e008af89.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.738565b7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.738565b7.js.map",
+    "static/css/2.71916e70.chunk.css": "/static/css/2.71916e70.chunk.css",
+    "static/js/2.2cffbd59.chunk.js": "/static/js/2.2cffbd59.chunk.js",
+    "static/js/2.2cffbd59.chunk.js.map": "/static/js/2.2cffbd59.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.5335d14a4314ca189fe9df7f43d50237.js": "/precache-manifest.5335d14a4314ca189fe9df7f43d50237.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.71916e70.chunk.css.map": "/static/css/2.71916e70.chunk.css.map",
+    "static/css/main.2c7e67e8.chunk.css.map": "/static/css/main.2c7e67e8.chunk.css.map",
+    "static/media/gen1.png": "/static/media/gen1.29bf9ca8.png",
+    "static/media/gen2.png": "/static/media/gen2.eb386f70.png",
+    "static/media/gen2grapg.png": "/static/media/gen2grapg.f81be993.png",
+    "static/media/googleapistorage.png": "/static/media/googleapistorage.33f4576b.png",
+    "static/media/intelli.png": "/static/media/intelli.5f48cfb2.png",
+    "static/media/loading.svg": "/static/media/loading.c5590569.svg",
+    "static/media/navbar.css": "/static/media/logo_jlb.1008c547.png",
+    "static/media/App.css": "/static/media/sea.20cbd480.jpg",
+    "static/media/serviceacc.png": "/static/media/serviceacc.2bc3dfb1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.738565b7.js",
+    "static/css/2.71916e70.chunk.css",
+    "static/js/2.2cffbd59.chunk.js",
+    "static/css/main.2c7e67e8.chunk.css",
+    "static/js/main.e008af89.chunk.js"
+  ]
+}
