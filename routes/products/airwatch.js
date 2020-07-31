@@ -754,7 +754,7 @@ router.post('/searchdeviceperog',cors.corsWithOptions,  (req, res, next) => {
   console.log(req.body);
   Airwatch.findOne({ email: email, sub: sub}, async (err, data) =>{
     
-    const url = `${data.awurl}api/system/users/enrolleddevices/search`;
+    const url = `${data.awurl}/api/system/users/enrolleddevices/search`;
     const headers = {
       'Content-Type': 'application/json',
       'Authorization': `Basic ${data.awencoded}`,
@@ -791,7 +791,7 @@ router.post('/getappid',cors.corsWithOptions,  (req, res, next) => {
   const lgid = req.body.lgid;
   const bundleid = req.body.bundleid
   
-  console.log(req.body);
+  console.log("this is input ",req.body);
   Airwatch.findOne({ email: email, sub: sub}, async (err, data) =>{
     
     const url = `${data.awurl}/api/mam/apps/search`;
@@ -805,7 +805,9 @@ router.post('/getappid',cors.corsWithOptions,  (req, res, next) => {
 const params =  {
   locationgroupid: lgid,
   bundleid,
-  status: "Active"
+  status: "Active",
+  applicationtype: "Public"
+  
 };
 
     try {
@@ -865,7 +867,8 @@ const params =  {
       
     }
     catch(err){
-      console.log("is ir iccoming ",err.response.data.errorCode)
+      console.log("is ir iccoming ",err)
+     // console.log("is ir iccoming ",err.response.data.errorCode)
     //res.json([])
    }
       
@@ -975,7 +978,112 @@ pagesize: '50000'
 })
 
 
+router.post('/searchalldevicesperog',cors.corsWithOptions,  (req, res, next) => {
+  const email = req.body.email;
+  const sub = req.body.sub;
+  const lgid = req.body.lgid;
 
+  console.log(req.body);
+  Airwatch.findOne({ email: email, sub: sub}, async (err, data) =>{
+    if(data){
+    const url = `${data.awurl}/api/mdm/devices/search`;
+    const headers = {
+      'Content-Type': 'application/json',
+      'Authorization': `Basic ${data.awencoded}`,
+     'aw-tenant-code': `${data.apikey}`,
+     'Accept':'application/json;version=2'
+}
+
+const params =  {
+  sortorder: "ASC",
+  pagesize: '10000000',
+lgid
+
+};
+
+    try {
+   const devices = await axios.get(url, 
+     
+      {  params,
+        headers
+      })
+      console.log("devices all", devices.data);
+    //  console.log("devices ", devices.data.Devices.length)   
+    if(devices.data)  res.json(devices.data.Devices)
+    
+      else res.json([])
+    }
+
+    catch(err){
+      console.log("deer ",err)
+      if(err.toString().includes("ENOTFOUND") || err.response.status >= 404 ){
+        console.log("Server not responding, check in seetings if it is not mispelled")
+        res.send("Server not responding or mispelled")
+      }
+      else if(err.response.data){
+      console.log("is ir iccoming ",err.response.data.message)
+      res.send(err.response.data.message)}
+      else{console.log("Server not responding or mispelled")
+        res.send("Server not responding or mispelled")}
+   }
+  }
+   else res.send("Please56785678"); 
+  })
+})
+
+
+router.post('/searchallipperog',cors.corsWithOptions,  (req, res, next) => {
+  const email = req.body.email;
+  const sub = req.body.sub;
+  const lgid = req.body.lgid;
+
+  console.log(req.body);
+  Airwatch.findOne({ email: email, sub: sub}, async (err, data) =>{
+    if(data){
+    const url = `${data.awurl}/api/mdm/devices/litesearch`;
+    const headers = {
+      'Content-Type': 'application/json',
+      'Authorization': `Basic ${data.awencoded}`,
+     'aw-tenant-code': `${data.apikey}`,
+     'Accept':'application/json;version=2'
+}
+
+const params =  {
+  sortorder: "ASC",
+  pagesize: '10000000',
+lgid
+
+};
+
+    try {
+   const devices = await axios.get(url, 
+     
+      {  params,
+        headers
+      })
+      console.log("devices all", devices.data);
+    //  console.log("devices ", devices.data.Devices.length)   
+    if(devices.data)  res.json(devices.data.Devices)
+    
+      else res.json([])
+    }
+
+    catch(err){
+      console.log("deer ",err)
+      if(err.toString().includes("ENOTFOUND") || err.response.status >= 404 ){
+        console.log("Server not responding, check in seetings if it is not mispelled")
+        res.send("Server not responding or mispelled")
+      }
+      else if(err.response.data){
+      console.log("is ir iccoming ",err.response.data.message)
+      res.send(err.response.data.message)}
+      else{console.log("Server not responding or mispelled")
+        res.send("Server not responding or mispelled")}
+   }
+  }
+   else res.send("Please56785678"); 
+  })
+})
 
 
 
