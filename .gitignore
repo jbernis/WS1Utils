@@ -1,5 +1,8 @@
 # dependencies
 /node_modules
+./config/auth_configback.js
+./config/mailBack.js
+./public/static/js/*.map
 
 # Logs
 logs

@@ -1,5 +1,5 @@
 
 module.exports = {
-    GMAIL_USER: 'jeanloupbernis@gmail.com',
-    GMAIL_PASS: 'Voiture12'
+    GMAIL_USER: '',
+    GMAIL_PASS: ''
 }
